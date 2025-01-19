@@ -4,7 +4,7 @@
 Assignment Link:
 [https://classroom.github.com/a/AZQjSR3h](https://classroom.github.com/a/AZQjSR3h)
 
-In this assignment, you will practice with inheritance and polymorphism
+In this assignment, you will practice with inheritance and polymorphism.
 
 <hr/>
 
