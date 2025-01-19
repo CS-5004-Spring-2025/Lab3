@@ -1,5 +1,5 @@
 # Lab 3 - MarketPlace
-### Due - Monday, January 27, 11:59pm
+### Due - Friday, February 1, 11:59pm
 
 Assignment Link:
 []()
