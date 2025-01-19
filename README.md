@@ -1,5 +1,5 @@
 # Lab 3 - MarketPlace
-### Due - Friday, February 1, 11:59pm
+### Due - Friday, January 31, 11:59pm
 
 Assignment Link:
 [https://classroom.github.com/a/AZQjSR3h](https://classroom.github.com/a/AZQjSR3h)
